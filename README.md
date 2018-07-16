@@ -9,3 +9,6 @@ add the `.bash_profile` file to `~/.bash_profile`
 
 ## eslint
 Install the eslint plugin for vscode and drop the `.eslintrc.json` and `.eslintignore` files into the root folder
+
+## vscode user settings
+copy and paste the user settings in `.user-settings-vscode.json` under Preferences > USER SETTINGS

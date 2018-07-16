@@ -1,0 +1,16 @@
+{
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Monokai",
+    "editor.snippetSuggestions": "top",
+    "editor.tabSize": 2,
+    "editor.mouseWheelZoom": true,
+    "editor.rulers": [100],
+    "prettier.printWidth": 100,
+    "prettier.eslintIntegration": true,
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay"
+}
